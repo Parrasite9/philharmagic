@@ -1,3 +1,5 @@
+// HANDLES SIMULATION RELATED REQUEST 
+
 const express = require('express')
 const router = express.Router()
 const simulationController = require('../Controllers/simulationController.js')

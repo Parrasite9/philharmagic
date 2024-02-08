@@ -1,3 +1,5 @@
+// HANDLES LOGIC FOR PROCESSING REQUEST AND RETURNING RESPONSES. 
+
 const SimulationEvent = require('../Models/SimulationEvent')
 
 exports.startSimulation = async (req, res) => {
